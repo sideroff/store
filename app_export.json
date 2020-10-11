@@ -1,0 +1,107 @@
+{
+    "Products": [
+        {
+            "product_id": 53,
+            "name(en-gb)": "Ксенон Крушка H7 | 35W",
+            "categories": 33,
+            "location": "Bulgaria",
+            "quantity": 1,
+            "model": "H7",
+            "image_name": "catalog/H7_metal_base_bulbs__44870.1422611652.900.900.jpg",
+            "shipping": "yes",
+            "price": 15,
+            "points": 0,
+            "date_added": "2020-09-19 22:03:00",
+            "date_modified": "2020-09-19 22:42:11",
+            "date_available": "2020-09-19",
+            "weight": 1,
+            "weight_unit": "kg",
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "length_unit": "cm",
+            "status": "true",
+            "tax_class_id": 0,
+            "description(en-gb)": "<p style=\"box-sizing: inherit; font-family: Roboto, sans-serif; line-height: inherit; font-size: 14px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: inherit; vertical-align: baseline; caret-color: rgb(85, 85, 85); color: rgb(85, 85, 85);\">Висококачествена ксенон крушка АС, с UV- защита на стъклото и метален пръстен в основата на стъклото.</p><p style=\"box-sizing: inherit; font-family: Roboto, sans-serif; line-height: inherit; font-size: 14px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: inherit; vertical-align: baseline; caret-color: rgb(85, 85, 85); color: rgb(85, 85, 85);\">Като за сравнение при по евтините ксенон крушки обикновенно основата е силикон, който омеква и води до изкривяване на самото стъкло и изместване на фокуса на крушките при продължителна работа.&nbsp;</p><p style=\"box-sizing: inherit; font-family: Roboto, sans-serif; line-height: inherit; font-size: 14px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: inherit; vertical-align: baseline; caret-color: rgb(85, 85, 85); color: rgb(85, 85, 85);\">Без гаранция</p>",
+            "meta_title(en-gb)": "Kсенон",
+            "stock_status_id": 6,
+            "store_ids": 0,
+            "layout": "0:",
+            "sort_order": 1,
+            "subtract": "true",
+            "minimum": 1
+        },
+        {
+            "product_id": 54,
+            "name(en-gb)": "Product Name",
+            "sku": "SKU",
+            "upc": "UPC",
+            "ean": "EAN",
+            "jan": "JAN",
+            "isbn": "ISBN",
+            "mpn": "MPN",
+            "location": "Location",
+            "quantity": 0,
+            "model": "Model",
+            "shipping": "yes",
+            "price": 0,
+            "points": 0,
+            "date_added": "2020-09-22 16:42:55",
+            "date_modified": "2020-09-22 16:42:55",
+            "date_available": "2020-09-22",
+            "weight": 0,
+            "weight_unit": "kg",
+            "length": 0,
+            "width": 0,
+            "height": 0,
+            "length_unit": "cm",
+            "status": "true",
+            "tax_class_id": 9,
+            "description(en-gb)": "<p>Description</p>",
+            "meta_title(en-gb)": "Meta Tag Title",
+            "meta_description(en-gb)": "Meta Tag Description",
+            "meta_keywords(en-gb)": "Meta Tag Keywords",
+            "stock_status_id": 5,
+            "store_ids": 0,
+            "layout": "0:",
+            "tags(en-gb)": "Product Tags",
+            "sort_order": 0,
+            "subtract": "true",
+            "minimum": 0
+        }
+    ],
+    "AdditionalImages": [],
+    "Specials": [
+        {
+            "product_id": 54,
+            "customer_group": "Default",
+            "priority": 1,
+            "price": 1,
+            "date_start": "2020-09-22",
+            "date_end": "2020-09-23"
+        }
+    ],
+    "Discounts": [
+        {
+            "product_id": 54,
+            "customer_group": "Default",
+            "quantity": 1,
+            "priority": 1,
+            "price": 1,
+            "date_start": "2020-09-22",
+            "date_end": "2020-09-23"
+        }
+    ],
+    "Rewards": [],
+    "ProductOptions": [],
+    "ProductOptionValues": [],
+    "ProductAttributes": [],
+    "ProductFilters": [],
+    "ProductSEOKeywords": [
+        {
+            "product_id": 54,
+            "store_id": 0,
+            "keyword(en-gb)": "seo-keywords"
+        }
+    ]
+}

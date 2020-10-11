@@ -1,0 +1,9 @@
+category_id,parent_id,name(en-gb),top,columns,sort_order,image_name,date_added,date_modified,description(en-gb),meta_title(en-gb),meta_description(en-gb),meta_keywords(en-gb),store_ids,layout,status
+59,0,bmw,false,1,0,catalog/hairy_ass.jpeg,2020-09-23 20:16:29,2020-09-23 20:19:38,<p>bmw category</p>,bmw,,,0,0:,true
+60,0,Category Name,true,0,0,catalog/hairy_ass.jpeg,2020-09-23 20:17:00,2020-09-23 20:17:00,<p>Description</p>,Meta Tag Title,Meta Tag Description,Meta Tag Keywords,0,0:,true
+61,59,x3,true,1,0,catalog/hairy_ass.jpeg,2020-09-23 20:21:20,2020-09-23 20:21:20,,x3,,,0,0:,true
+62,61,2003-2006,false,1,0,,2020-09-23 20:28:44,2020-09-23 20:28:44,,2003-2006,,,0,0:,true
+63,61,2006-2012,false,1,0,,2020-09-23 20:29:57,2020-09-23 20:29:57,,2006-2012,,,0,0:,true
+64,59,x5,false,1,0,catalog/profile-pic.png,2020-09-23 20:32:42,2020-09-23 20:33:03,,x5,,,0,0:,true
+category_id,filter_group,filter
+category_id,store_id,keyword(en-gb)

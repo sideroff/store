@@ -1,0 +1,16 @@
+product_id,name(en-gb),categories,sku,upc,ean,jan,isbn,mpn,location,quantity,model,manufacturer,image_name,shipping,price,points,date_added,date_modified,date_available,weight,weight_unit,length,width,height,length_unit,status,tax_class_id,description(en-gb),meta_title(en-gb),meta_description(en-gb),meta_keywords(en-gb),stock_status_id,store_ids,layout,related_ids,tags(en-gb),sort_order,subtract,minimum
+53,Ксенон Крушка H7 | 35W,62,,,,,,,Bulgaria,0,H7,,catalog/H7_metal_base_bulbs__44870.1422611652.900.900.jpg,yes,15.00,0,2020-09-19 22:03:00,2020-09-23 22:37:00,2020-09-19,1.00,kg,0,0,0,cm,true,0,"<p style=""box-sizing: inherit; font-family: Roboto, sans-serif; line-height: inherit; font-size: 14px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: inherit; vertical-align: baseline; caret-color: rgb(85, 85, 85); color: rgb(85, 85, 85);"">Висококачествена ксенон крушка АС, с UV- защита на стъклото и метален пръстен в основата на стъклото.</p><p style=""box-sizing: inherit; font-family: Roboto, sans-serif; line-height: inherit; font-size: 14px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: inherit; vertical-align: baseline; caret-color: rgb(85, 85, 85); color: rgb(85, 85, 85);"">Като за сравнение при по евтините ксенон крушки обикновенно основата е силикон, който омеква и води до изкривяване на самото стъкло и изместване на фокуса на крушките при продължителна работа.&nbsp;</p><p style=""box-sizing: inherit; font-family: Roboto, sans-serif; line-height: inherit; font-size: 14px; margin-bottom: 0px; padding: 0px; border: 0px; font-stretch: inherit; vertical-align: baseline; caret-color: rgb(85, 85, 85); color: rgb(85, 85, 85);"">Без гаранция</p>",Kсенон,,,6,0,0:,,,1,true,1
+54,Product Name,,SKU,UPC,EAN,JAN,ISBN,MPN,Location,0,Model,,,yes,0.00,0,2020-09-22 16:42:55,2020-09-22 16:42:55,2020-09-22,0.00,kg,0,0,0,cm,true,9,<p>Description</p>,Meta Tag Title,Meta Tag Description,Meta Tag Keywords,5,0,0:,,Product Tags,0,true,0
+55,test,"62,63",,,,,,,,0,test,,,yes,90.00,0,2020-09-23 20:31:35,2020-09-23 22:36:34,2020-09-23,0.00,kg,0,0,0,cm,true,0,,test,,,6,0,0:,,,1,true,1
+product_id,image,sort_order
+product_id,customer_group,priority,price,date_start,date_end
+54,Default,1,1.00,2020-09-22,2020-09-23
+product_id,customer_group,quantity,priority,price,date_start,date_end
+54,Default,1,1,1.00,2020-09-22,2020-09-23
+product_id,customer_group,points
+product_id,option_id,default_option_value,required
+product_id,option_id,option_value,quantity,subtract,price,price_prefix,points,points_prefix,weight,weight_prefix
+product_id,attribute_group,attribute,text(en-gb)
+product_id,filter_group,filter
+product_id,store_id,keyword(en-gb)
+54,0,seo-keywords
